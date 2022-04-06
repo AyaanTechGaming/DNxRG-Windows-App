@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DNxRG/DNxRG-Windows-App">
-    <img src="https://media.discordapp.net/attachments/909307813854052452/934479100062605362/rsz_1rsz_61ec2b225d824.png" alt="Logo" width="120" height="120">
+    <img src="https://media.discordapp.net/attachments/909307813854052452/961264119418351656/LOGOO.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Chat Bot</h3>
