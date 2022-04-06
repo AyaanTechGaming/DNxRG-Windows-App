@@ -28,7 +28,7 @@
     <img src="https://media.discordapp.net/attachments/909307813854052452/961264119418351656/LOGOO.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Chat Bot</h3>
+  <h3 align="center">DNxRG Hosting Application</h3>
 
   <p align="center">
     An awesome AI Chat Bot for Discord!
