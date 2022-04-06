@@ -31,7 +31,7 @@
   <h3 align="center">DNxRG Hosting Application</h3>
 
   <p align="center">
-    An awesome AI Chat Bot for Discord!
+    A Application maded for using DNxRG Hosting on Using!
     <br />
     <a href="https://github.com/PinkPicOfficial/Chat-Bot"><strong>Explore the docs »</strong></a>
     <br />
