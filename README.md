@@ -75,8 +75,8 @@ With DNxRG Hosting, you can host, manage and control all your game-servers like 
 
 ### Built With
 
-* [Discord.js v13](https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start)
-* [Brainshop](https://brainshop.ai/)
+* [Electron Js v13](https://www.electronjs.org/)
+* [Node Js](https://nodejs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
