@@ -31,16 +31,15 @@
   <h3 align="center">DNxRG Hosting Application</h3>
 
   <p align="center">
-    A Application maded for using DNxRG Hosting on Using!
+    A Application maded for using DNxRG Hosting on Windows!
     <br />
-    <a href="https://github.com/PinkPicOfficial/Chat-Bot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DNxRG/DNxRG-Windows-App/releases/download/DNxRG/DNxRG.Setup.exe"><strong>Download Now »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/PinkPicOfficial/Chat-Bot">View Demo</a>
     ·
-    <a href="https://github.com/PinkPicOfficial/Chat-Bot/issues">Report Bug</a>
+    <a href="https://github.com/DNxRG/DNxRG-Windows-App/issues">Report Bug</a>
     ·
-    <a href="https://github.com/PinkPicOfficial/Chat-Bot/issues">Request Feature</a>
+    <a href="https://github.com/DNxRG/DNxRG-Windows-App/issues">Request Feature</a>
   </p>
 </div>
 
