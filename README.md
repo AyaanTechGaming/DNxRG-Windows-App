@@ -31,7 +31,7 @@
   <h3 align="center">DNxRG Hosting Application</h3>
 
   <p align="center">
-    A Application maded for using DNxRG Hosting on Windows!
+    An Application maded for using DNxRG Hosting on Windows!
     <br />
     <a href="https://github.com/DNxRG/DNxRG-Windows-App/releases/download/DNxRG/DNxRG.Setup.exe"><strong>Download Now »</strong></a>
     <br />
