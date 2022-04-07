@@ -85,29 +85,18 @@ With DNxRG Hosting, you can host, manage and control all your game-servers like 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Creating an instance
+### Creating an instance
 
 Head to our DNxRG Application, login with your Discord account and authorize our bot. You will see that our website generated you a password, keep it somewhere safe, we would need it in the next step. Go and ask in the support channel in DNxRG Discord Server then On the left sidebar, click on create server, enter your instance name, CPU, RAM and DISK (In MB) and hit create and BAM! You made your first instance with us!
 
+### Logging into the Game Panel
 
-### Installation
+As you just created an instance, now lets boot it up! To do so head to our Game Panel from menu on top and login to it, the email would be the email which you gave for your Discord account and the password would be the one that our website generated in the above step. And done! You logged into your very own account at our Dashboard.
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+### Starting and setting up your instance
 
-1. Get a free API Key at [https://brainshop.ai/](https://brainshop.ai/)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/PinkPicOfficial/Chat-Bot.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your Configuration in `misc/config.json`
-5. Start NPM
-6. ```sh
-   npm start
-   ```
+Now as you just logged into the Game Panel you will already see your instance right Infront of you, click it. Now you will see you've got more options to control your server. Hit the start button on your left and select what you want your instance to be i.e. Minecraft Java, Minecraft Bedrock respective numbers on the console, once its done GG, that's all it takes to host your instance with us! Happy Hosting.
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
