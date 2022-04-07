@@ -116,9 +116,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Email: support@pinkpic.in
+Email: support@dnxrg.net
 
-Project Link: [https://github.com/PinkPicOfficial/Chat-Bot](https://github.com/PinkPicOfficial/Chat-Bot)
+Project Link: [https://github.com/DNxRG/DNxRG-Windows-App](https://github.com/DNxRG/DNxRG-Windows-App)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -127,6 +127,8 @@ Project Link: [https://github.com/PinkPicOfficial/Chat-Bot](https://github.com/P
 <!-- ACKNOWLEDGMENTS -->
 ## License
 
+
+* [ MIT License ](https://github.com/DNxRG/DNxRG-Windows-App/blob/main/LICENSE.txt)
 
 
 * [ Electron License ](https://github.com/DNxRG/DNxRG-Windows-App/blob/main/LICENSE.electron.txt)
