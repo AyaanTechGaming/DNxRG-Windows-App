@@ -125,9 +125,9 @@ Project Link: [https://github.com/PinkPicOfficial/Chat-Bot](https://github.com/P
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## License
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
 
 * [ Electron License ](https://github.com/DNxRG/DNxRG-Windows-App/blob/main/LICENSE.electron.txt)
 
@@ -139,14 +139,14 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/PinkPicOfficial/Chat-Bot.svg?style=for-the-badge
-[contributors-url]: https://github.com/PinkPicOfficial/Chat-Bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/PinkPicOfficial/Chat-Bot.svg?style=for-the-badge
-[forks-url]: https://github.com/PinkPicOfficial/Chat-Bot/network/members
-[stars-shield]: https://img.shields.io/github/stars/PinkPicOfficial/Chat-Bot.svg?style=for-the-badge
-[stars-url]: https://github.com/PinkPicOfficial/Chat-Bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/PinkPicOfficial/Chat-Bot.svg?style=for-the-badge
-[issues-url]: https://github.com/PinkPicOfficial/Chat-Bot/issues
-[license-shield]: https://img.shields.io/github/license/PinkPicOfficial/Chat-Bot.svg?style=for-the-badge
-[license-url]: https://github.com/PinkPicOfficial/Chat-Bot/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/DNxRG/DNxRG-Windows-App.svg?style=for-the-badge
+[contributors-url]: https://github.com/DNxRG/DNxRG-Windows-App/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DNxRG/DNxRG-Windows-App.svg?style=for-the-badge
+[forks-url]: https://github.com/DNxRG/DNxRG-Windows-App/network/members
+[stars-shield]: https://img.shields.io/github/stars/DNxRG/DNxRG-Windows-App.svg?style=for-the-badge
+[stars-url]: https://github.com/DNxRG/DNxRG-Windows-App/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DNxRG/DNxRG-Windows-App.svg?style=for-the-badge
+[issues-url]: https://github.com/DNxRG/DNxRG-Windows-App/issues
+[license-shield]: https://img.shields.io/github/license/DNxRG/DNxRG-Windows-App.svg?style=for-the-badge
+[license-url]: https://github.com/DNxRG/DNxRG-Windows-App/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
