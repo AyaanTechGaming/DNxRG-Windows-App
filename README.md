@@ -124,7 +124,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Email: support@dnxrg.net
+Business Email: support@dnxrg.net
 
 Project Link: [https://github.com/DNxRG/DNxRG-Windows-App](https://github.com/DNxRG/DNxRG-Windows-App)
 
