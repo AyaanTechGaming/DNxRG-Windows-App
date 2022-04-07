@@ -69,12 +69,6 @@ Host, control and manage all your game-servers at one place for the cost of air 
 With DNxRG Hosting, you can host, manage and control all your game-servers like Minecraft Java, Minecraft Bedrock, Discord.py Bot, Discord.js Bot and more!
 
 
-<div align="center">
-<a href="https://github.com/PinkPicOfficial/Chat-Bot">
-<img src="https://i.ibb.co/nfHKXmh/demo.png" alt="Demo" width="512" height="439">
-</a>
-</div>
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
