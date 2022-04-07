@@ -85,8 +85,9 @@ With DNxRG Hosting, you can host, manage and control all your game-servers like 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Creating an instance
+
+Head to our DNxRG Application, login with your Discord account and authorize our bot. You will see that our website generated you a password, keep it somewhere safe, we would need it in the next step. Go and ask in the support channel in DNxRG Discord Server then On the left sidebar, click on create server, enter your instance name, CPU, RAM and DISK (In MB) and hit create and BAM! You made your first instance with us!
 
 
 ### Installation
