@@ -122,7 +122,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Business Email: support@dnxrg.net
 
-Project Link: [https://github.com/DNxRG/DNxRG-Windows-App](https://github.com/DNxRG/DNxRG-Windows-App)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
