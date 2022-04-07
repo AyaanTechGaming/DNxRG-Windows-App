@@ -109,6 +109,14 @@ Now as you just logged into the Game Panel you will already see your instance ri
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
+
+* [ MIT License ](https://github.com/DNxRG/DNxRG-Windows-App/blob/main/LICENSE.txt)
+
+
+* [ Electron License ](https://github.com/DNxRG/DNxRG-Windows-App/blob/main/LICENSE.electron.txt)
+
+* [ Chromium License ](https://raw.githubusercontent.com/DNxRG/DNxRG-Windows-App/main/LICENSES.chromium.html)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -119,21 +127,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Email: support@dnxrg.net
 
 Project Link: [https://github.com/DNxRG/DNxRG-Windows-App](https://github.com/DNxRG/DNxRG-Windows-App)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## License
-
-
-* [ MIT License ](https://github.com/DNxRG/DNxRG-Windows-App/blob/main/LICENSE.txt)
-
-
-* [ Electron License ](https://github.com/DNxRG/DNxRG-Windows-App/blob/main/LICENSE.electron.txt)
-
-* [ Chromium License ](https://raw.githubusercontent.com/DNxRG/DNxRG-Windows-App/main/LICENSES.chromium.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
