@@ -130,7 +130,8 @@ Project Link: [https://github.com/PinkPicOfficial/Chat-Bot](https://github.com/P
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [ Electron License ](https://github.com/DNxRG/DNxRG-Windows-App/blob/main/LICENSE.electron.txt)
-* [ Chromium License ] (https://raw.githubusercontent.com/DNxRG/DNxRG-Windows-App/main/LICENSES.chromium.html)
+
+* [ Chromium License ](https://raw.githubusercontent.com/DNxRG/DNxRG-Windows-App/main/LICENSES.chromium.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
