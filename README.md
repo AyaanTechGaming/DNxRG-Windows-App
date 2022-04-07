@@ -65,8 +65,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Working on projects is the most crucial stage in the learning path. In this step, you must be able to put all the skills and knowledge you learned theoretically into reality. And this becomes even more important when it comes to artificial intelligence or data science.
-As I began to study this field more deeply, I realized that finding application projects is not a hard task. We barely use Artificial Intelligence in many areas. Thus, we can find many new and different applications related to other fields such as medicine, engineering, accounting, etc. Although the most difficult thing is knowing what are the exact steps to follow in order to accomplish this specific project.
+Host, control and manage all your game-servers at one place for the cost of air (Free).
+With DNxRG Hosting, you can host, manage and control all your game-servers like Minecraft Java, Minecraft Bedrock, Discord.py Bot, Discord.js Bot and more!
 
 
 <div align="center">
