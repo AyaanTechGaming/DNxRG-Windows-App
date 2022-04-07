@@ -103,23 +103,6 @@ Now as you just logged into the Game Panel you will already see your instance ri
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b PinkPicOfficial/Chat-Bot`)
-3. Commit your Changes (`git commit -m 'Add some Chat-Bot'`)
-4. Push to the Branch (`git push origin PinkPicOfficial/Chat-Bot`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
@@ -146,9 +129,8 @@ Project Link: [https://github.com/PinkPicOfficial/Chat-Bot](https://github.com/P
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [Discord Js](https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start)
-* [BrainShop](https://brainshop.ai/)
+* [ Electron License ](https://github.com/DNxRG/DNxRG-Windows-App/blob/main/LICENSE.electron.txt)
+* [ Chromium License ] (https://raw.githubusercontent.com/DNxRG/DNxRG-Windows-App/main/LICENSES.chromium.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
