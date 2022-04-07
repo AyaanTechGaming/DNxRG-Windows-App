@@ -75,7 +75,7 @@ With DNxRG Hosting, you can host, manage and control all your game-servers like 
 
 ### Built With
 
-* [Electron Js v13](https://www.electronjs.org/)
+* [Electron Js](https://www.electronjs.org/)
 * [Node Js](https://nodejs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
